@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akash Prajapati</h1>
-## Demo Animation
-
-## Demo GIF
-
-![Demo Animation](assets/animation.gif)
+<p align="center">
+<img   src="animinate.gif" width="400" height="400" />
+</p>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 
 - 🔭 I’m currently working on **AI Travel Safety Dashboard**
